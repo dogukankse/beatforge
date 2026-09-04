@@ -1,0 +1,105 @@
+{
+    "charts": [
+        "Avicii-Levels-easy.json",
+        "Avicii-Levels-expert.json",
+        "Avicii-Levels.json",
+        "Hilelu-easy.json",
+        "Hilelu-expert.json",
+        "Hilelu-normal.json",
+        "Hilelu.json",
+        "Toz-Pembe-easy.json",
+        "Toz-Pembe-expert.json",
+        "Toz-Pembe-normal.json",
+        "Toz-Pembe.json"
+    ],
+    "entries": [
+        {
+            "file": "Avicii-Levels-easy.json",
+            "track": "Avicii-Levels",
+            "difficulty": "easy",
+            "bpm": 126.0,
+            "notes": 220,
+            "lengthMs": 191216
+        },
+        {
+            "file": "Avicii-Levels-expert.json",
+            "track": "Avicii-Levels",
+            "difficulty": "expert",
+            "bpm": 126.0,
+            "notes": 951,
+            "lengthMs": 192157
+        },
+        {
+            "file": "Avicii-Levels.json",
+            "track": "Avicii-Levels",
+            "difficulty": "hard",
+            "bpm": 126.0,
+            "notes": 642,
+            "lengthMs": 192168
+        },
+        {
+            "file": "Hilelu-easy.json",
+            "track": "Hilelu",
+            "difficulty": "easy",
+            "bpm": 114.80000305175781,
+            "notes": 182,
+            "lengthMs": 201433
+        },
+        {
+            "file": "Hilelu-expert.json",
+            "track": "Hilelu",
+            "difficulty": "expert",
+            "bpm": 114.80000305175781,
+            "notes": 1040,
+            "lengthMs": 202048
+        },
+        {
+            "file": "Hilelu-normal.json",
+            "track": "Hilelu",
+            "difficulty": "normal",
+            "bpm": 114.80000305175781,
+            "notes": 370,
+            "lengthMs": 201758
+        },
+        {
+            "file": "Hilelu.json",
+            "track": "Hilelu",
+            "difficulty": "hard",
+            "bpm": 114.80000305175781,
+            "notes": 729,
+            "lengthMs": 202060
+        },
+        {
+            "file": "Toz-Pembe-easy.json",
+            "track": "Toz Pembe",
+            "difficulty": "easy",
+            "bpm": 129.1999969482422,
+            "notes": 215,
+            "lengthMs": 177064
+        },
+        {
+            "file": "Toz-Pembe-expert.json",
+            "track": "Toz Pembe",
+            "difficulty": "expert",
+            "bpm": 129.1999969482422,
+            "notes": 922,
+            "lengthMs": 177424
+        },
+        {
+            "file": "Toz-Pembe-normal.json",
+            "track": "Toz Pembe",
+            "difficulty": "normal",
+            "bpm": 129.1999969482422,
+            "notes": 453,
+            "lengthMs": 177064
+        },
+        {
+            "file": "Toz-Pembe.json",
+            "track": "Toz Pembe",
+            "difficulty": "hard",
+            "bpm": 129.1999969482422,
+            "notes": 740,
+            "lengthMs": 177064
+        }
+    ]
+}
